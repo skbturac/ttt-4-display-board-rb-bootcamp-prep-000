@@ -13,7 +13,7 @@ def display_board(board)
   #puts "#{lines}"
   #puts "#{board[6]} #{separator} #{board[7]}  #{separator} #{board[8]}"
   
-  puts "  |  |  "
+  puts "   |   |   "
   puts "-----------"
   puts "X | X | X "
   puts "-----------"
