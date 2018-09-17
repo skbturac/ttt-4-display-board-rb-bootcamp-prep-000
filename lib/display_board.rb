@@ -7,11 +7,11 @@ def display_board(board)
   
   #board = ["O","X"," "," ","X"," ","X","O"," "]
   
-  puts "#{board[0]} #{separator} #{board[1]} #{separator} #{board[2]}"
+  puts " #{board[0]} #{separator} #{board[1]} #{separator} #{board[2]} "
   puts "#{lines}"
-  puts "#{board[3]} #{separator} #{board[4]} #{separator} #{board[5]}"
+  puts " #{board[3]} #{separator} #{board[4]} #{separator} #{board[5]} "
   puts "#{lines}"
-  puts "#{board[6]} #{separator} #{board[7]}  #{separator} #{board[8]}"
+  puts " #{board[6]} #{separator} #{board[7]}  #{separator} #{board[8]} "
   
   #puts " X  |   |   "
   #puts "-----------"
